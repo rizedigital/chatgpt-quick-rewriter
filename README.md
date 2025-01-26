@@ -1,4 +1,6 @@
 # chatgpt-quick-rewriter
+#find the extension
+Look for 'chatgpt quick rewriter' in the Chrome Web Store, or download the zip file from this link.
 
 #about 
 This extension provides a simple and efficient way to rewrite or enhance selected text using OpenAI's language model. Highlight text, click the toolbar button or context menu option, and receive rewritten content instantly.
